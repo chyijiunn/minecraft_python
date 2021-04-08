@@ -31,18 +31,18 @@ date	time	curriculum	item
 	LED燈與按鈕	輸入與輸出測試  
 	
 #參考資料  
-*tutor	[從一開始到岩漿](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4)  
-*resourse	
++tutor	[從一開始到岩漿](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4)  
++resourse	
 	其他的[數學函數圖形](https://www.instructables.com/Python-coding-for-Minecraft)
 	[作者](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)的網頁	
-*PE maps	
++PE maps	
 	這裡有其他人作的[地圖](http://www.minecraftforum.net/forum/157-mcpe-maps)
 	[NewYork](https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1976138-mine-york-city-myc)
 	[pokemon](https://www.planetminecraft.com/texture-pack/pokecraft-a-pokemon-texture-pack)  
 	
-*castle_maker	
++castle_maker	
 	英國[教學網站](https://learnlearn.uk/raspberrypi)  
-*教育版麥塊	
++教育版麥塊	
 	[官網](https://education.minecraft.net/zh-hant)  
 *about computercraft
 	跨平台[免費使用](https://www.amazon.com/-/zh_TW/dp/1593278535/ref=pd_aw_sim_1?pd_rd_w=ZEgXY&pf_rd_p=4962911d-6f6c-4c8c-8600-c859de3473d3&pf_rd_r=Z4MCE0S9KEFGABC3EM8G&pd_rd_r=3782059c-f94b-4c75-b9e1-a18990cb5865&pd_rd_wg=wcsR3&pd_rd_i=1593278535&psc=1)
