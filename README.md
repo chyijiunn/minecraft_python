@@ -31,24 +31,24 @@ date	time	curriculum	item
 	LED燈與按鈕	輸入與輸出測試  
 	
 #參考資料  
-tutor	[從一開始到岩漿](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4)  
-resourse	
+*tutor	[從一開始到岩漿](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4)  
+*resourse	
 	其他的[數學函數圖形](https://www.instructables.com/Python-coding-for-Minecraft)
 	[作者](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)的網頁	
-PE maps	
+*PE maps	
 	這裡有其他人作的[地圖](http://www.minecraftforum.net/forum/157-mcpe-maps)
 	[NewYork](https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1976138-mine-york-city-myc)
 	[pokemon](https://www.planetminecraft.com/texture-pack/pokecraft-a-pokemon-texture-pack)  
 	
-castle_maker	
+*castle_maker	
 	英國[教學網站](https://learnlearn.uk/raspberrypi)  
-教育版麥塊	
+*教育版麥塊	
 	[官網](https://education.minecraft.net/zh-hant)  
-about computercraft
+*about computercraft
 	跨平台[免費使用](https://www.amazon.com/-/zh_TW/dp/1593278535/ref=pd_aw_sim_1?pd_rd_w=ZEgXY&pf_rd_p=4962911d-6f6c-4c8c-8600-c859de3473d3&pf_rd_r=Z4MCE0S9KEFGABC3EM8G&pd_rd_r=3782059c-f94b-4c75-b9e1-a18990cb5865&pd_rd_wg=wcsR3&pd_rd_i=1593278535&psc=1)
-computercraft	
+*computercraft	
 	使用 [lua with computercraft](https://www.computercraft.info)  
-[forge](http://files.minecraftforge.net)  
-[craft api](https://nostarch.com/programwithminecraft)  
-[科技領域綱要](https://www.k12ea.gov.tw/files/class_schema/%E8%AA%B2%E7%B6%B1/13-%E7%A7%91%E6%8A%80/13-1/%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81%E5%9C%8B%E6%B0%91%E4%B8%AD%E5%AD%B8%E6%9A%A8%E6%99%AE%E9%80%9A%E5%9E%8B%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1%E2%94%80%E7%A7%91%E6%8A%80%E9%A0%98%E5%9F%9F.pdf)
+*[forge](http://files.minecraftforge.net)  
+*[craft api](https://nostarch.com/programwithminecraft)  
+*[科技領域綱要](https://www.k12ea.gov.tw/files/class_schema/%E8%AA%B2%E7%B6%B1/13-%E7%A7%91%E6%8A%80/13-1/%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81%E5%9C%8B%E6%B0%91%E4%B8%AD%E5%AD%B8%E6%9A%A8%E6%99%AE%E9%80%9A%E5%9E%8B%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1%E2%94%80%E7%A7%91%E6%8A%80%E9%A0%98%E5%9F%9F.pdf)
 
