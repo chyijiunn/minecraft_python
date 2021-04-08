@@ -21,15 +21,15 @@
 - 呼叫 math 、random、time
 - 製作自己的迷宮並且與他人合作、地圖輸出  
 			
-# 需要的設備  
-材料	品項	說明	
-主板	pi 4B 4G RAM	主機板	
-	電源供應	3A充電器與3A以上type-c	
-	保護殼	金屬鋁殼	
-	視訊線	micro-HDMI轉接	
-配件	記憶卡	16G	
-	麵包板	含線材	
-	LED燈與按鈕	輸入與輸出測試  
+# 需要的設備  	
+### 主板	pi 4B 4G RAM	主機板	
++ 電源供應	3A充電器與3A以上type-c	
++ 保護殼	金屬鋁殼	
++ 視訊線	micro-HDMI轉接	
+### 配件	
++ 記憶卡	16G	
++ 麵包板	含線材	
++ LED燈與按鈕	輸入與輸出測試  
 	
 # 參考資料  
 + tutor	[從一開始到岩漿](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4)  
