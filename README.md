@@ -1,82 +1,6 @@
 # minecraft_python
 為了學python，用麥塊來實現它
 
-#tile
-0	空氣	
-1	石頭	
-2	草	
-3	污垢	
-4	鵝卵石	
-5	木板	
-6	樹苗	0：橡木 1：雲杉 2：樺木
-7	基岩	
-8	水流	0-7：水的級別 0最高 7最低
-	水	
-9	水靜	
-10	熔岩流	
-	岩漿	
-11	熔岩固定	
-12	砂	
-13	碎石	
-14	金礦	
-15	鐵礦	
-16	煤炭礦石	
-17	木	0：橡木（上/下） 1：雲杉（上/下） 2：樺木（上/下）
-18	樹葉	1：橡樹葉 2：雲杉葉 3：樺樹葉
-20	玻璃	
-21	天青石礦	
-22	天青石塊	
-24	砂岩	0：砂岩 1：鑿刻砂岩 2：平滑砂岩
-26	床	
-30	蛛網	
-31	高大的草	0：灌木 1：草 2：蕨
-35	羊毛	0：白  1：橙色  2：洋紅  3：淺藍色  4：黃色  5：檸檬  6：粉色  7：灰色  8：淺灰色  9：青色  10：紫  11：藍  12：棕  13：綠  14：紅色  15：黑色
-37	花黃色	
-38	花青色	
-39	褐蘑菇	
-40	紅菇	
-41	黃金地塊	
-42	鑄鐵缸體	
-43	石板雙	
-44	石板	
-45	磚塊	
-46	TNT	0：無效 1：準備爆炸
-47	書架	
-48	青苔石	
-49	黑曜石	
-50	火炬	1：指向東 2：指向西 3：指向南 4：指向北方 5：正視
-51	火	
-53	木樓梯	
-54	寶箱	2：朝北 3：坐北朝南 4：朝西 5：朝東
-56	鑽石原礦	
-57	菱形塊	
-58	各具特色表	
-60	農田	
-61	爐不活躍	2：朝北 3：坐北朝南 4：朝西 5：朝東
-62	爐活躍	
-64	實木門	
-65	階梯	2：朝北 3：坐北朝南 4：朝西 5：朝東
-67	樓梯鵝卵石	0：升序東 1：升序西 2：升序南 3：升序北 4：升序東（倒置） 5：升序西（倒置） 6：升序南（顛倒） 7：升序北（倒置）
-71	門鐵	
-73	紅石礦石	
-78	雪	
-79	冰	
-80	雪塊	
-81	仙人掌	
-82	粘土	
-83	甘蔗	
-85	籬笆	2：朝北 3：坐北朝南 4：朝西 5：朝東
-89	glowstone塊	
-95	基岩無形	
-98	石磚	
-102	玻璃板	
-103	瓜	
-107	柵欄門	
-246	發光的黑曜石	
-247	陰反應堆芯	0：未使用
-		1：活動
-		2：停止/用完
-
 #給孩子的進階暑期營隊
 date	time	curriculum	item
 7/1	AM	Linux作業硬體與系統	
@@ -94,8 +18,8 @@ date	time	curriculum	item
 	PM	進階的麥塊	
 			呼叫函式進行模組化繪圖
 			呼叫 math 、random、time
-			製作自己的迷宮並且與他人合作、地圖輸出
-      
+			製作自己的迷宮並且與他人合作、地圖輸出  
+			
 #需要的設備
 材料	品項	說明	
 主板	pi 4B 4G RAM	主機板	
@@ -104,28 +28,27 @@ date	time	curriculum	item
 	視訊線	micro-HDMI轉接	
 配件	記憶卡	16G	
 	麵包板	含線材	
-	LED燈與按鈕	輸入與輸出測試	
-#參考資料
-tutor	[從一開始到岩漿](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4)
+	LED燈與按鈕	輸入與輸出測試  
+	
+#參考資料  
+tutor	[從一開始到岩漿](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4)  
 resourse	
 	其他的[數學函數圖形](https://www.instructables.com/Python-coding-for-Minecraft)
 	[作者](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)的網頁	
 PE maps	
 	這裡有其他人作的[地圖](http://www.minecraftforum.net/forum/157-mcpe-maps)
 	[NewYork](https://www.minecraftforum.net/forums/minecraft-pocket-edition/mcpe-maps/1976138-mine-york-city-myc)
-	[pokemon](https://www.planetminecraft.com/texture-pack/pokecraft-a-pokemon-texture-pack)
+	[pokemon](https://www.planetminecraft.com/texture-pack/pokecraft-a-pokemon-texture-pack)  
+	
 castle_maker	
-	英國[教學網站](https://learnlearn.uk/raspberrypi)
-
+	英國[教學網站](https://learnlearn.uk/raspberrypi)  
 教育版麥塊	
-	[官網](https://education.minecraft.net/zh-hant)
-
-about computercraft	
+	[官網](https://education.minecraft.net/zh-hant)  
+about computercraft
 	跨平台[免費使用](https://www.amazon.com/-/zh_TW/dp/1593278535/ref=pd_aw_sim_1?pd_rd_w=ZEgXY&pf_rd_p=4962911d-6f6c-4c8c-8600-c859de3473d3&pf_rd_r=Z4MCE0S9KEFGABC3EM8G&pd_rd_r=3782059c-f94b-4c75-b9e1-a18990cb5865&pd_rd_wg=wcsR3&pd_rd_i=1593278535&psc=1)
 computercraft	
-	使用 [lua with computercraft](https://www.computercraft.info)
-[forge](http://files.minecraftforge.net)
-[craft api](https://nostarch.com/programwithminecraft)
-
+	使用 [lua with computercraft](https://www.computercraft.info)  
+[forge](http://files.minecraftforge.net)  
+[craft api](https://nostarch.com/programwithminecraft)  
 [科技領域綱要](https://www.k12ea.gov.tw/files/class_schema/%E8%AA%B2%E7%B6%B1/13-%E7%A7%91%E6%8A%80/13-1/%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81%E5%9C%8B%E6%B0%91%E4%B8%AD%E5%AD%B8%E6%9A%A8%E6%99%AE%E9%80%9A%E5%9E%8B%E9%AB%98%E7%B4%9A%E4%B8%AD%E7%AD%89%E5%AD%B8%E6%A0%A1%E2%94%80%E7%A7%91%E6%8A%80%E9%A0%98%E5%9F%9F.pdf)
 
