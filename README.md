@@ -1,7 +1,7 @@
 # minecraft_python
 為了學python，用麥塊來實現它
 
-#給孩子的進階暑期營隊
+#給孩子的進階暑期營隊  
 date	time	curriculum	item
 7/1	AM	Linux作業硬體與系統	
 			樹梅派組裝與環境、帳號設定
@@ -20,7 +20,7 @@ date	time	curriculum	item
 			呼叫 math 、random、time
 			製作自己的迷宮並且與他人合作、地圖輸出  
 			
-#需要的設備
+#需要的設備  
 材料	品項	說明	
 主板	pi 4B 4G RAM	主機板	
 	電源供應	3A充電器與3A以上type-c	
