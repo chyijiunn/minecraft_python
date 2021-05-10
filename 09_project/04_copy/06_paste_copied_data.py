@@ -3,7 +3,6 @@ mc = Minecraft.create()
 x, y, z = mc.player.getPos()
 File = open('tiles','r')
 for line in File:
-    data = File.readline()
-    print(data.rstrip())
-    #mc.setBlock(tuple(data.rstrip()))
+    x1 , y1 , z1 , brick , dat = line.split(',')
+    mc.setBlock(x+int(x1) , y+int(y1) , z+int(z1) , int(brick) ,int(dat))
 File.close
