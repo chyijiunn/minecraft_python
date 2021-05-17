@@ -31,7 +31,7 @@ while True:
     input_value = GPIO.input(12)
     if input_value == False:
         print('fire!')
-            x,y,z = mc.player.getPos()
+        x,y,z = mc.player.getPos()
         hodocan(x,y,z,10,0.05,10,2)
         while input_value == False:
             input_value = GPIO.input(12)
