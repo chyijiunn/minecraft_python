@@ -28,6 +28,16 @@ def hodocan(x,y,z,block,sleep_time,attack_range,start_point):
     mc.setBlock(x-attack_range-start_point,y,z,0)
 
 while True:
+<<<<<<< HEAD
     x,y,z = mc.player.getPos()
     hodocan(x,y,z,10,0.05,10,2)
     sleep(0.5)
+=======
+    input_value = GPIO.input(12)
+    if input_value == False:
+        print('fire!')
+        x,y,z = mc.player.getPos()
+        hodocan(x,y,z,10,0.05,10,2)
+        while input_value == False:
+            input_value = GPIO.input(12)
+>>>>>>> d5c3bccc218e198cf26173fcdb3dd51ffe1600e1
