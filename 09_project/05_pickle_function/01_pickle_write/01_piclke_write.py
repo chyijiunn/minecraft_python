@@ -1,4 +1,4 @@
 import pickle
 location = {'home':'try','cave':'my','bed':'hears'}
-File = open("file.txt","wb")
+File = open("file","wb")
 pickle.dump(location,File)
