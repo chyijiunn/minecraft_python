@@ -5,7 +5,7 @@
 於第一個分頁當中輸入需要的顏色代碼，第二個分頁會讀出三個參數，並於 setBlock 函式當中放入 x , y 和 羊毛 No.35 的副參數當中
 
 
-##使用方法
+## 使用方法
 
 1.	打開[連結](https://docs.google.com/spreadsheets/d/1tUw7-8LBS8wGSpfyPGF8vSzVthWWXxPZrk_Y_J407W8/edit?usp=sharing)，或使用上方的dotPicMineCraft.xlsx
 1.	於第一個分頁進行繪圖，搭配下方顏色輸入數字
