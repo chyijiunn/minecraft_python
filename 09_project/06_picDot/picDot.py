@@ -7,5 +7,6 @@ for line in data_brick:
     for i in range(len(a)):
         xAxis = int(a[i].split(',')[0])
         yAxis = int(a[i].split(',')[1])
-        mc.setBlock(x+xAxis, y+yAxis, z,35,4)
+        colorPar = int(a[i].split(',')[2])
+        mc.setBlock(x+xAxis, y+yAxis, z,35,colorPar)
 data_brick.close()
