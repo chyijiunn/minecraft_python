@@ -12,4 +12,4 @@ mc.setBlock(x+6, y, z, 1)
 mc.setBlock(x+7, y, z, 1)
 mc.setBlock(x+8, y, z, 1)
 mc.setBlock(x+9, y, z, 1)
-#有沒有更好的作法？
+#如果要蓋20個，有沒有更快的作法？
