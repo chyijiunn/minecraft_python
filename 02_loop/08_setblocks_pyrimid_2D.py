@@ -7,7 +7,7 @@ mc.setBlocks(x-1, y+2, z,x+1 ,y+2 , z, 1)
 mc.setBlocks(x    , y+3, z,x      ,y+3 , z, 1)
 
 '''
-把零寫入可以協助學生判斷規則變動
+把零寫入協助判斷規則變動
 mc.setBlocks(x-3+0, y+0,z,x+3-0 ,y+0 , z, 1)
 mc.setBlocks(x-3+1, y+1,z,x+3-1 ,y+1 , z, 1)
 mc.setBlocks(x-3+2, y+2,z,x+3-2 ,y+2 , z, 1)
